@@ -14,16 +14,16 @@ Additionally, it is necessary to clarify the impact of processing image tiles in
 
 **[Data Overview]**
 
-**Total annotations: 19,735**
+**Total annotations: 19,735**\
 PV_normal: 10,787\
 PV_heater: 5,216\
 PV_pool: 2,503\
 uncertflag: 1,920\
 Annotations with only uncertflag (no duplicates): 1,231
 
-**Double Annotations**
+**Double Annotations: 691**\
 PV_heater & PV_pool: 2\
 PV_heater & uncertflag: 484\
-PV_pool & uncertflag: 205\
+PV_pool & uncertflag: 205
 
 Refers to Sampling annotations(sample_select_for_qc/annotation_sampling.ipynb)
