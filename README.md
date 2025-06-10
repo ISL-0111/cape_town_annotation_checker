@@ -6,9 +6,9 @@ Sampling annotations(sample_select_for_qc/annotation_sampling.ipynb)
 Annotation quality checking(annotation_checker/checker.ipynb)
 
 **Current Issue **
-(June 10, 2025) Final annotation files contain duplicate values and uncertain flags. it's impossible to estimate the accuracy denominator.
+(June 10, 2025) Final annotation files contain duplicate values and uncertain flags. it's impossible to estimate the accuracy denominator.\
 Remarks : Our target accuracy threshold is 90%, but the current annotation quality holds up progress.
-Therefore, we need to decide whether to (1) remove all entries with uncertflag and duplicate annotations, or (2) explicitly define how to handle them.
+Therefore, we need to decide whether to (1) remove all entries with uncertflag and duplicate annotations, or (2) explicitly define PV types
 Additionally, it is necessary to clarify the impact of processing image tiles in which PV arrays are only partially annotated.
 
 
