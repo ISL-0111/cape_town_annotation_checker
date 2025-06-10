@@ -2,6 +2,6 @@ Climate_plus(Energy_Transition)_annotations_checker
 
 Run
 
-db_pipeline/data_processing.ipynb
-sample_select_for_qc/annotation_sampling.ipynb
-annotation_checker/checker.ipynb# cape_town_annotation_checker
+- db_pipeline/data_processing.ipynb
+- sample_select_for_qc/annotation_sampling.ipynb 
+- annotation_checker/checker.ipynb
