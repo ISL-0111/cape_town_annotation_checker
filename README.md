@@ -27,3 +27,8 @@ PV_heater & uncertflag: 484\
 PV_pool & uncertflag: 205
 
 Refers to Sampling annotations(sample_select_for_qc/annotation_sampling.ipynb)
+
+**[UPDATE 06.16]**
+Mergeing PV_normal with PV_pool
+Drop undertflag and double annotation
+Samples 1,000
